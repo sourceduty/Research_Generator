@@ -11,5 +11,12 @@ In the final stage, Research Generator analyzes the organized data to identify t
 
 [Smartphone_Market_Trends_2024.txt](https://github.com/sourceduty/Research_Generator/files/15231097/Smartphone_Market_Trends_2024.txt)
 
+#
+### Related Links
+
+[Research Helper](https://chat.openai.com/g/g-4S9pOnFTb-research-helper)
+<br>
+[Business Research](https://chat.openai.com/g/g-G2UxJHRgU-business-research)
+
 ***
 Copyright (C) 2024, Sourceduty - All Rights Reserved.
