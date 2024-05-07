@@ -1,4 +1,4 @@
-![Research Generator](https://github.com/sourceduty/Research_Generator/assets/123030236/1c3f82e8-5f92-4d04-8fbc-1efd691ca0ba)
+![Research Generator](https://github.com/sourceduty/Research_Generator/assets/123030236/1525f448-45ba-431d-bee0-5efaa4f5f67c)
 
 [Research Generator](https://chatgpt.com/g/g-uxHzF0xR5-research-generator) is a specialized tool developed to assist researchers in the systematic collection, organization, and analysis of information relevant to their specific fields of study. The primary function of this tool is to streamline the process of gathering research from various sources on the web, thereby making it more efficient and less time-consuming for researchers.
 
