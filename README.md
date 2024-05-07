@@ -10,6 +10,8 @@ In the final stage, Research Generator analyzes the organized data to identify t
 ### Example Usage
 
 [Smartphone_Market_Trends_2024.txt](https://github.com/sourceduty/Research_Generator/files/15231097/Smartphone_Market_Trends_2024.txt)
+<br>
+[CMB_Research_Paper.txt](https://github.com/sourceduty/Research_Generator/files/15231305/CMB_Research_Paper.txt)
 
 #
 ### Related Links
