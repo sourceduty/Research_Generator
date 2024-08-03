@@ -21,6 +21,8 @@ In the final stage, Research Generator analyzes the organized data to identify t
 [Business Research](https://chat.openai.com/g/g-G2UxJHRgU-business-research)
 <br>
 [Data Generator](https://github.com/sourceduty/Data_Generator)
+<br>
+[Resarch Automation](https://github.com/sourceduty/Research_Automation)
 
 ***
 Copyright (C) 2024, Sourceduty - All Rights Reserved.
