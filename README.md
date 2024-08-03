@@ -23,6 +23,8 @@ In the final stage, Research Generator analyzes the organized data to identify t
 [Data Generator](https://github.com/sourceduty/Data_Generator)
 <br>
 [Resarch Automation](https://github.com/sourceduty/Research_Automation)
+<br>
+[Research Planner](https://github.com/sourceduty/Research_Planner)
 
 ***
 Copyright (C) 2024, Sourceduty - All Rights Reserved.
